@@ -24,7 +24,7 @@
            <br>
            <label for="password">Confirm your password</label>
            <br>
-           <input type="text" id="password">
+           <input type="text" id="confirm your password">
            <br>
            <p>Enter your gender</p>
             <input type="radio"  id="female" name="gender">
