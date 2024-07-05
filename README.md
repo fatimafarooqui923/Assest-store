@@ -20,11 +20,11 @@
            <br>
             <label for="password">Enter your password</label>
             <br>
-            <input type="text"id="password">
+            <input type="text" id="password">
             <br>
             <label for="password">Confirm your password</label>
              <br>
-             <input type="text"id="password">
+             <input type="text" id="password">
              <br>
              <p>Enter your gender</p>
             <input type="radio"  id="female" name="gender">
